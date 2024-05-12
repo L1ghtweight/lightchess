@@ -1,3 +1,4 @@
+>NOTE: Desktop applet to host LAN tournaments can be found [here](https://github.com/L1ghtweight/lightchess-desktop)
 <p align="center">
     <a href="" target="_blank"><img src="assets/lightchess_logo.png" height="300" width="300"></a>
 </p>
